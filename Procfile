@@ -1,1 +1,1 @@
-web: npm run start:prod -t 120000
+web: npm run start:prod
